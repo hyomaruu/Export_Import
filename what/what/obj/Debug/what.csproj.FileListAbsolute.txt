@@ -1,0 +1,13 @@
+E:\Raditya\All FIles\Materi Pembelajaran\kerjaan\C#\what\what\bin\Debug\what.exe.config
+E:\Raditya\All FIles\Materi Pembelajaran\kerjaan\C#\what\what\bin\Debug\what.exe
+E:\Raditya\All FIles\Materi Pembelajaran\kerjaan\C#\what\what\bin\Debug\what.pdb
+E:\Raditya\All FIles\Materi Pembelajaran\kerjaan\C#\what\what\bin\Debug\GemBox.Spreadsheet.dll
+E:\Raditya\All FIles\Materi Pembelajaran\kerjaan\C#\what\what\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.dll
+E:\Raditya\All FIles\Materi Pembelajaran\kerjaan\C#\what\what\bin\Debug\GemBox.Spreadsheet.xml
+E:\Raditya\All FIles\Materi Pembelajaran\kerjaan\C#\what\what\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.xml
+E:\Raditya\All FIles\Materi Pembelajaran\kerjaan\C#\what\what\obj\Debug\what.csprojResolveAssemblyReference.cache
+E:\Raditya\All FIles\Materi Pembelajaran\kerjaan\C#\what\what\obj\Debug\what.Form1.resources
+E:\Raditya\All FIles\Materi Pembelajaran\kerjaan\C#\what\what\obj\Debug\what.Properties.Resources.resources
+E:\Raditya\All FIles\Materi Pembelajaran\kerjaan\C#\what\what\obj\Debug\what.csproj.GenerateResource.Cache
+E:\Raditya\All FIles\Materi Pembelajaran\kerjaan\C#\what\what\obj\Debug\what.exe
+E:\Raditya\All FIles\Materi Pembelajaran\kerjaan\C#\what\what\obj\Debug\what.pdb
